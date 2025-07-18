@@ -1,0 +1,29 @@
+{
+  "duration": 180,
+  "puzzles": [
+    {
+      "letters": ["M","A","O","R"],
+      "allowed": ["roma","amor","mora","ramo","amo","aro","mar"]
+    },
+    {
+      "letters": ["O","C","R","A"],
+      "allowed": ["arco","caro","orca","roca","aro"]
+    },
+    {
+      "letters": ["P","S","A","O"],
+      "allowed": ["sopa","sapo","posa","paso","poas"]
+    },
+    {
+      "letters": ["A","M","R","A"],
+      "allowed": ["amar","arma","rama","ama","mar","ara"]
+    },
+    {
+      "letters": ["S","L","A","A"],
+      "allowed": ["alas","sala","ala","asa","sal"]
+    },
+    {
+      "letters": ["A","T","O","G"],
+      "allowed": ["gato","gota","toga"]
+    }
+  ]
+}

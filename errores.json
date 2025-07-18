@@ -1,0 +1,29 @@
+{
+  "duration": 420,
+  "scripts": [
+    {
+      "text": "Hola. Le estamos contactando para informarle que su cuenta fue cerrada por que no cumpliocon con los requicitos. Si tiene dudas, pongace en contacto con el centro de atención al ususario. Gracias.",
+      "errors": [
+        "por que","cumpliocon","requicitos","pongace","ususario"
+      ]
+    },
+    {
+      "text": "Estimado cliente, su factrura a sido rechazada por falta de informacón. Por favor envíe los documentos corrrectos para procesar su solicitud lo antes posible.",
+      "errors": [
+        "factrura","informacón","corrrectos","a"
+      ]
+    },
+    {
+      "text": "Buen día, le avisamos que el envíe de producto fue retrasado debido a problemas logístico. Disculpe las molestías y gracias por su paciéncia.",
+      "errors": [
+        "envíe","molestías","paciéncia","problemas logístico"
+      ]
+    },
+    {
+      "text": "Su petición ha sido aplazada por que el sistema no pude procesarla en este momento. Intenté nuevamente más tardé o contacte soporte técnico.",
+      "errors": [
+        "por que","tardé","pude","Intenté"
+      ]
+    }
+  ]
+}

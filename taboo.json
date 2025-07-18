@@ -1,0 +1,37 @@
+{
+  "duration": 300,
+  "words": [
+    {
+      "word": "Liderazgo",
+      "forb": ["jefe","equipo","guía","mando","decisión"]
+    },
+    {
+      "word": "Innovación",
+      "forb": ["nuevo","creativo","idea","cambio","tecnología"]
+    },
+    {
+      "word": "Éxito",
+      "forb": ["triunfo","victoria","logro","meta","campeón"]
+    },
+    {
+      "word": "Colaboración",
+      "forb": ["juntos","ayuda","cooperar","grupo","alianza"]
+    },
+    {
+      "word": "Estrategia",
+      "forb": ["plan","táctica","objetivo","meta","esquema"]
+    },
+    {
+      "word": "Clientes",
+      "forb": ["comprador","usuario","mercado","venta","público"]
+    },
+    {
+      "word": "Creatividad",
+      "forb": ["arte","ingenio","invento","original","talento"]
+    },
+    {
+      "word": "Crecimiento",
+      "forb": ["aumento","expansión","desarrollo","subida","progreso"]
+    }
+  ]
+}

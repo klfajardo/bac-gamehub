@@ -1,0 +1,14 @@
+{
+  "words": [
+    "Empatía","Miedo","Escucha","Rabia",
+    "Excel","KPI","Gantt","Análisis",
+    "Ética","Honestidad","Autenticidad","Excelencia",
+    "Intuición","Datos","Valor","Proceso"
+  ],
+  "categories": [
+    ["Empatía","Miedo","Escucha","Rabia"],
+    ["Excel","KPI","Gantt","Análisis"],
+    ["Ética","Honestidad","Autenticidad","Excelencia"],
+    ["Intuición","Datos","Valor","Proceso"]
+  ]
+}
